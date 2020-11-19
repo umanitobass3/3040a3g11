@@ -10,3 +10,8 @@ The API will get the population of a specific city in Manitoba through a single 
   This is the minimum age of a set age range.
 - max_age (optional) (int)  
   This is the maximum age of a set age range.
+
+### Resource Descriptions
+- population: The total population of the city queried.
+- population_within_range: If used, the population within the age range specified.
+- status: status indicator
