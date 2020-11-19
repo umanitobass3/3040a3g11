@@ -1,1 +1,2 @@
-# 3040a3g11
+COMP3040 - Group 11
+Assignment 3
