@@ -17,8 +17,7 @@ The API will get the population of a specific city in Manitoba through a single 
 - status: status indicator
 
 ### Example Query
-Example: Getting the population of people under 30 in the city of Winnipeg:
-- `GET example.com/population?city_name=Winnipeg&max_age=30`
+- Getting the population of people under 30 in the city of Winnipeg:
 ```
 GET example.com/population?city_name=Winnipeg&max_age=30
 ```
