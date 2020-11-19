@@ -18,3 +18,15 @@ The API will get the population of a specific city in Manitoba through a single 
 
 ### Example Query
 - GET example.com/population?city_name=Winnipeg&max_age=30
+
+### Sample Response
+Resource Response:
+{
+	"results":
+	{
+    	    "population":"800000",
+    	    "population_within_range":"100000",
+	},
+   	"status":"OK"
+}
+
