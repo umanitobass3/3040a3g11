@@ -22,12 +22,13 @@ Example: Getting the population of people under 30 in the city of Winnipeg:
 
 ### Sample Response
 - Resource Response:
+```json
 {
-	"results":
-	{
+    "results":
+        {
     	    "population":"800000",
-    	    "population_within_range":"100000",
+    	    "population_within_range":"100000"
 	},
-   	"status":"OK"
+    "status":"OK"
 }
-
+```
