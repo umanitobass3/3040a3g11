@@ -20,7 +20,7 @@ The API will get the population of a specific city in Manitoba through a single 
 - GET example.com/population?city_name=Winnipeg&max_age=30
 
 ### Sample Response
-Resource Response:
+- Resource Response:
 {
 	"results":
 	{
